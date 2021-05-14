@@ -1,0 +1,4 @@
+pyinstaller :
+
+pyinstaller --onefile --windowed myscript.py : un seul fichier executable sans la fenêtre de commande qui apparait
+pyinstaller --onefile myscript.py : un seul fichier exec avec la fenetre de cmd qui apparait
